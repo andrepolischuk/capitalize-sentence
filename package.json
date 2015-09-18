@@ -5,7 +5,9 @@
   "keywords": [
     "capitalize",
     "each",
-    "sentence"
+    "sentence",
+    "text",
+    "textr"
   ],
   "repository": "andrepolischuk/capitalize-sentence",
   "devDependencies": {
