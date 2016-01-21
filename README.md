@@ -11,9 +11,20 @@ npm install --save capitalize-sentence
 ## Usage
 
 ```js
-var capitalizeSentence = require('capitalize-sentence');
-capitalizeSentence('hello world. hello awesome.'); // Hello world. Hello awesome.
+import capitalize from 'capitalize-sentence';
+
+capitalize('hello world. hello awesome.'); // Hello world. Hello awesome.
 ```
+
+## API
+
+### capitalize(input)
+
+#### input
+
+Type: `string`
+
+Text for transform.
 
 ## License
 
