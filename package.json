@@ -1,6 +1,6 @@
 {
   "name": "capitalize-sentence",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Capitalize each sentence",
   "main": "index.es5.js",
   "jsnext:main": "index.js",
